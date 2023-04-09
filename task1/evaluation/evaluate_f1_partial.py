@@ -2,7 +2,7 @@ import os
 import sys
 import numpy as np
 #from sklearn.metrics import f1_score
-from f1_score_partial import f1_score
+from task1.evaluation.f1_score_partial import f1_score
 
 
 def parse_input(path):
